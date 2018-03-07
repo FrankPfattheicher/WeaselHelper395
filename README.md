@@ -1,5 +1,8 @@
 # WeaselHelper395
 
+"If your specifications are ambiguous, the greater the ambiguity, the easier the specifications are to satisfy (if the specifications are absolutely ambiguous, every program will satisfy them!"    
+Edsger Dijkstra https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html
+
 
 ## In The Beginning
 ### Inspiration
