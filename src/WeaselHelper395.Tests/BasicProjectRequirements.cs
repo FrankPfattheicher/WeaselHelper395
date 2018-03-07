@@ -9,10 +9,9 @@ namespace WeaselHelper395.Tests
         [TestMethod]
         public void ShouldHaveEnterpriseFeeling()
         {
-            var abstractServiceHelperFactoryGeneratorMiddelwarePoolAdapter =
-                new AbstractServiceHelperFactoryGeneratorMiddelwarePoolAdapter();
+            var sut = new AbstractServiceHelperFactoryGeneratorMiddelwarePoolAdapter();
 
-            Assert.IsNotNull(abstractServiceHelperFactoryGeneratorMiddelwarePoolAdapter);
+            Assert.IsNotNull(sut);
         }
     }
 }
